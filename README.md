@@ -1,4 +1,4 @@
-Sensor App
+#Sensor App
 This Android application, coded in Kotlin, is a simple sensor data monitoring tool. It utilizes the device's accelerometer sensor to capture orientation data along the X, Y, and Z axes, and displays it in real-time. Additionally, it provides functionality to export this data to a text file.
 
 Features
